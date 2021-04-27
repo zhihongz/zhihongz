@@ -6,12 +6,11 @@ _**[[Homepage](https://zhihongz.github.io/)]**_
 _**I am currently a Ph.D Student at the Broadband and Digital Media Lab (BBNC), Tsinghua University. My interests include computational imaging, machine learning and computer vision.**_
 
 
-## 💬  **News**
+### 💬  **News**
 
 
 
-
-## 📖 **Repositories**
+### 📖 **Repositories**
 
 
 
