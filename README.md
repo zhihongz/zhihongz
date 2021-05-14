@@ -1,9 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhihongz&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhihongz&show_icons=true&icon_color=CE1D2D&count_private=true&theme=buefy" />
 
 ### Zhihong Zhang
 _**[[Homepage](https://zhihongz.github.io/)]**_
 
-_**I am currently a Ph.D Student at the Broadband and Digital Media Lab (BBNC), Tsinghua University. My interests include computational imaging, machine learning and computer vision.**_
+_**🌱 I am currently a Ph.D Student at the Broadband and Digital Media Lab (BBNC), Tsinghua University. My interests include computational imaging, machine learning and computer vision.**_
 
 
 ### 💬  **News**
@@ -12,7 +12,12 @@ _**I am currently a Ph.D Student at the Broadband and Digital Media Lab (BBNC), 
 
 ### 📖 **Repositories**
 
-
+<a href="https://github.com/dawnlh/low-light-image-enhancement-resources">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhihongz&repo=HCA-SCI&theme=buefy" />
+</a>
+<a href="https://github.com/dawnlh/image_registration_n_splitting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhihongz&repo=ConvDAE&theme=buefy" />
+</a>
 
 <!--
 **zhihongz/zhihongz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
