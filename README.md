@@ -12,7 +12,7 @@ _**🌱 I am currently a Ph.D Student at the Broadband and Digital Media Lab (BB
 
 ### 📖 **Repositories**
 
-<a href="https://github.com/dawnlh/low-light-image-enhancement-resources">
+<a href="https://github.com/zhihongz/HCA-SCI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhihongz&repo=HCA-SCI&theme=buefy" />
 </a>
 <a href="https://github.com/zhihongz/ConvDAE">
