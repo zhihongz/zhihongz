@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhihongz&show_icons=true&icon_color=CE1D2D&count_private=true&theme=buefy" />
 
 ### Zhihong Zhang
-_**[[Homepage](https://zhangzhihong.github.io/)]**_
+_**[[Homepage](https://zhihongz.github.io/)]**_
 
 _**🌱 I am currently a Ph.D Student at the Broadband and Digital Media Lab (BBNC), Tsinghua University. My interests include computational imaging, machine learning and computer vision.**_
 
