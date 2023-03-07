@@ -7,7 +7,7 @@ _**🌱 I am currently a Ph.D Student at the Broadband and Digital Media Lab (BB
 
 
 ### 💬  **News**
-Our paper “INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions” has been accepted by IEEE Trans. Image Process..
+- Our paper “INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions” has been accepted by IEEE Trans. Image Process..
 
 
 <!-- ### 📖 **Repositories**
