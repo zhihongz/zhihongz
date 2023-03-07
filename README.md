@@ -7,17 +7,17 @@ _**🌱 I am currently a Ph.D Student at the Broadband and Digital Media Lab (BB
 
 
 ### 💬  **News**
+Our paper “INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions” has been accepted by IEEE Trans. Image Process..
 
 
-
-### 📖 **Repositories**
+<!-- ### 📖 **Repositories**
 
 <a href="https://github.com/zhihongz/HCA-SCI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhihongz&repo=HCA-SCI&theme=buefy" />
 </a>
 <a href="https://github.com/zhihongz/ConvDAE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhihongz&repo=ConvDAE&theme=buefy" />
-</a>
+</a> -->
 
 <!--
 **zhihongz/zhihongz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
