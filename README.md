@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhihongz&show_icons=true&icon_color=CE1D2D&count_private=true&theme=buefy" />
 
 ### Zhihong Zhang
-_**[[Homepage](https://zhihongz.github.io/)]**_
+[![Personal Website](https://img.shields.io/badge/Web-zhihongz-green)](https://zhihongz.github.io) [![Email](https://img.shields.io/badge/-z_zhi_hong@163.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:z_zhi_hong@163.com)](mailto:z_zhi_hong@163.com) [![Google scholar](https://img.shields.io/badge/Google-Scholar-yellow)](https://scholar.google.com/citations?user=Ut_E87AAAAAJ) 
 
 _**🌱 I am currently a Ph.D Student at the Broadband and Digital Media Lab (BBNC), Tsinghua University. My interests include computational imaging, machine learning and computer vision.**_
 
