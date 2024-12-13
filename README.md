@@ -3,11 +3,11 @@
 ### Zhihong Zhang
 [![Personal Website](https://img.shields.io/badge/Web-zhihongz-green)](https://zhihongz.github.io) [![Email](https://img.shields.io/badge/-z_zhi_hong@163.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:z_zhi_hong@163.com)](mailto:z_zhi_hong@163.com) [![Google scholar](https://img.shields.io/badge/Google-Scholar-yellow)](https://scholar.google.com/citations?user=Ut_E87AAAAAJ) 
 
-_**🌱 I am currently a Ph.D Student at the Broadband and Digital Media Lab (BBNC), Tsinghua University. My interests include computational imaging, machine learning and computer vision.**_
+_**🌱 I'm a research engineer, currently focusing on computational photography, computer vision, and deep learning.**_
 
 
 ### 💬  **News**
-- Our paper “INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions” has been accepted by IEEE Trans. Image Process..
+- Our paper “Lightweight High-Speed Photography Built on Coded Exposure and Implicit Neural Representation of Videos” is accepted by _International Journal of Computer Vision_.
 
 
 <!-- ### 📖 **Repositories**
